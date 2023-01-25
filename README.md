@@ -103,3 +103,8 @@ LinkFree is licensed under the MIT License - see the [LICENSE](LICENSE) file for
 ## 🙏 Support
 
 Don't forget to leave a star ⭐️
+
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/EddieHubCommunity/LinkFree/contributors">
+  <img src = "https://contrib.rocks/image?repo=EddieHubCommunity/LinkFree"/>
+</a>
